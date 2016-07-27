@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "es6-promise": "3.0.2",
-    "mongodb-core": "https://github.com/adrian-gierakowski/mongodb-core.git",
+    "mongodb-core": "https://github.com/adrian-gierakowski/mongodb-core.git#2.0",
     "readable-stream": "1.0.31"
   },
   "devDependencies": {
